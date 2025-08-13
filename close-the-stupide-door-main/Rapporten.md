@@ -306,15 +306,12 @@ Ntfy enables a fast and efficient notification mechanism, which is critical for 
 
 The customizable nature of Ntfy also gives me the flexibility to tailor the messages depending on specific events or conditions, increasing the precision and usability of the project. Overall, Ntfy plays a central role in making my IoT project more interactive and user-centric by providing quick and clear notifications when needed.
 
-![!\[Alt text\](img/IMG-20240112-WA0005.jpg)](img/image.png)
 
 The image shows a graph with an X-axis and a Y-axis. The x-axis represents time, with timestamps appearing at various points. The y-axis represents a temperature difference, which is the difference betien the temperature at the freezer door and room temperature.
 
 The graph has a line that shows variations in the temperature difference over time. There are marked data points along the line, indicating that measurements ire taken at specific times. At certain times i see spikes or large changes in the temperature difference, which may indicate rapid changes in one of the two measured temperatures.
 
 The quality of service (QoS) is indicated as 0 in the upper right corner, which can be an indicator of the reliability of the measurement or some kind of quality of service rating.
-
-![!\[\](img/Screenshot_2024-01-12-01-57-26-548_io.heckel.ntfy.jpg)](img/Screenshot_2024-01-14-13-31-44-939_io.heckel.ntfy.jpg)
 
 # Results
 
@@ -325,7 +322,7 @@ The first device is strategically positioned near the refrigerator door to monit
 Completing this project successfully is crucial as it addresses concerns such as preventing damage to the refrigerator reducing electricity waste and making sure our food doesn't go to waste. Looking ahead i have plans to share this technology globally by considering providing the design for the device to countries at an affordable price due to its significant impact, on daily life.
 
 This video showing and clarifying our project:
-<video src="img/lv_0_20240114142034.mp4" controls title="Title"></video>
+<video src="img/lv_0_20250714142034.mp4" controls title="Title"></video>
 
 ### This is the end product of our project.
 <video src="img/endproduct.mp4" controls title="Title"></video>
@@ -342,8 +339,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Author: Osama Rashdan
 Code Links:
-- Kitchen script: [Link to Kitchen script](https://gitlab.lnu.se/1dt901/student/cidmv-7/close-the-stupide-door/-/blob/main/kitchen_.py?ref_type=heads)
-- Living Room script: [Link to Living Room script](https://gitlab.lnu.se/1dt901/student/cidmv-7/close-the-stupide-door/-/blob/main/living_room.py?ref_type=heads)
+- Kitchen script: [Link to Kitchen script](https://github.com/osamarashdan/close_the_door/blob/main/close-the-stupide-door-main/main_kitchen.py)
+- Living Room script: [Link to Living Room script](https://github.com/osamarashdan/close_the_door/blob/main/close-the-stupide-door-main/src/livingroom__LCD_perfect%20(1).py)
 
 
 
