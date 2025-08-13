@@ -306,12 +306,13 @@ Ntfy enables a fast and efficient notification mechanism, which is critical for 
 
 The customizable nature of Ntfy also gives me the flexibility to tailor the messages depending on specific events or conditions, increasing the precision and usability of the project. Overall, Ntfy plays a central role in making my IoT project more interactive and user-centric by providing quick and clear notifications when needed.
 
-
+![!\[Alt text\](img/IMG-20250712-WA0005.jpg)](img/image.png) 
 The image shows a graph with an X-axis and a Y-axis. The x-axis represents time, with timestamps appearing at various points. The y-axis represents a temperature difference, which is the difference betien the temperature at the freezer door and room temperature.
 
 The graph has a line that shows variations in the temperature difference over time. There are marked data points along the line, indicating that measurements ire taken at specific times. At certain times i see spikes or large changes in the temperature difference, which may indicate rapid changes in one of the two measured temperatures.
 
 The quality of service (QoS) is indicated as 0 in the upper right corner, which can be an indicator of the reliability of the measurement or some kind of quality of service rating.
+![!\[\](img/alertPhone.png)](img/alertPhone.png)
 
 # Results
 
